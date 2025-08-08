@@ -34,3 +34,5 @@ A simple and elegant Todo List application built using **React**, **Tailwind CSS
 ```bash
 git clone https://github.com/salmank282/Todo-List-app.git
 cd Todo-List-app
+npm i
+npm run dev
